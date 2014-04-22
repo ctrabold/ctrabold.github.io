@@ -38,7 +38,9 @@ All the way from Continuous Integration, through scalable Build Pipelines to Con
 
 ## My punchline
 
-When I hear _impossible_ it get's interesting.
+<blockquote>
+When I hear 'impossible' it get's interesting.
+</blockquote>
 
 
 ## Open Source
@@ -47,7 +49,7 @@ I have a number of open-source projects hosted on [GitHub](https://github.com/ct
 
 Most of the work happens as a maintainer / contributor of several [Organizations](https://github.com/typo3-ci) though.
 
-I'm also a proud member of the [TYPO3 Server Admin Team](https://typo3.org/teams/server-team/) and initiator of [ci.typo3.org](https://ci.typo3.org) and [metrics.typo3.org](https://metrics.typo3.org) – the CI and Code Metrics-Server for [TYPO3](https://typo3.org/).
+I'm also a proud member of the [TYPO3 Server Admin Team](https://typo3.org/teams/server-team/) and initiator of [ci.typo3.org](https://ci.typo3.org) and [metrics.typo3.org](https://metrics.typo3.org) – the CI and Code Metrics-Server for [TYPO3](https://typo3.org/), an Open Source Content Management System.
 
 
 ## Contact Me
