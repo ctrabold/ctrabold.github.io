@@ -1,0 +1,10 @@
+name: Christian Trabold
+url: http://christian-trabold.de
+description: international travel work food fun blogging
+
+permalink: /:year/:month/:day/:title/
+paginate: 10
+pygments: true
+markdown: kramdown
+
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']

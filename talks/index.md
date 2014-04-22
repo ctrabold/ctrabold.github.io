@@ -1,0 +1,37 @@
+---
+layout: default
+title: Talks
+---
+
+This site contains a list of my talks and workshops I gave at conferences and meetups.
+
+Some of them are on [slideshare](http://de.slideshare.net/ctrabold).
+
+# 2014
+
+- DevOps Meetup Singapore: [Implementing Continuous Delivery Talk](http://www.meetup.com/devops-singapore/events/168709362/)
+- FOSS Asia 2014: [Implementing Continuous Delivery Talk](http://fossasia.org/sites/default/files/FOSSASIA%202014%20Schedule.pdf)
+- OOP Munich 2014: [Implementing Continuous Delivery Workshop](http://www.oop-konferenz.de/nc/oop2014/konferenz/konferenzprogramm/conference-detail/continuous-delivery-implementieren.html)
+
+# 2013
+
+- DevOps Meetup Hamburg 2013: _My DevOps Enlightment_
+- BigData Meetup Hamburg 2013: _Visualize Open Source Communities_
+- DevCon Hamburg 2013: [_Entwurfsmuster für eine saubere Infrastruktur_](http://www.codetalks.de/session_post/entwurfsmuster-fuer-eine-saubere-infrastruktur)
+
+# 2012
+
+- XPDays Vienna 2012: [_Implementing Continuous Delivery Workshop_](http://xp2013.org/program/workshops-and-tutorials/implementing-continuous-delivery/)
+- TYPO3 Conference Asia 2012: [_TYPO3 Infrastructure_](http://www.slideshare.net/ctrabold/typo3-infrastructure)
+- T3Con Asia 2012 _Enable centralized TYPO3 logging with logstash & kibana_
+- T3DD 2012 CI Workshop: _TYPO3 Quality Improvements_
+
+# 2011
+
+- RailsCamp Hamburg 2011: [_30 Developers and one Vagrant_](http://www.slideshare.net/ctrabold/2011-1029-ctraboldrailscamphh)
+- TYPO3 Developer Days 2011: [_How healthy is TYPO3?_](http://www.slideshare.net/ctrabold/how-healthy-is-typo3-8534896)
+- T3Ski 2011 Tokyo: [_Extension Development with Extbase_](http://www.slideshare.net/ctrabold/t3ski11-slides-unmiffyfied)
+
+# 2010
+
+- TYPO3 Conference Frankfurt 2010: [_How to use code metrics to improve quality_](http://www.slideshare.net/ctrabold/how-to-improve-the-quality-of-your-typo3-extensions)
