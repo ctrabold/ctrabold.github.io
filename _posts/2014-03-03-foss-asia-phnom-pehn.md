@@ -3,6 +3,7 @@ layout: post
 title: FOSSASIA 2014 in Phnom Penh, Cambodia
 date: 2014-03-03
 category: conferences
+comments: true
 tags:
   - conferences
 ---
