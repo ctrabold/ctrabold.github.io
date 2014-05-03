@@ -16,6 +16,8 @@ Before that I worked for several companies as a Consultant, e.g. for [ThoughtWor
 
 I like pushing new ideas and forward thinking in the areas of DevOps and infrastructure automation.
 
+That's one reason why I created the DevOps Meetups in [Frankfurt](http://www.meetup.com/DevOps-Frankfurt/) and [Hamburg](http://www.meetup.com/DevOps-Hamburg/) <small>(the other reason is that it's fun)</small>.
+
 I believe in developers taking over responsibility for their work in production and that they can play well with operations (and vice versa).
 
 I truely believe that delivering software is a teamsport and that it can be great fun.
