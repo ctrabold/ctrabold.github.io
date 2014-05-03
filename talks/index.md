@@ -16,7 +16,7 @@ Some of them are on [slideshare](http://de.slideshare.net/ctrabold).
 # 2013
 
 - DevCon Hamburg 2013: [_Entwurfsmuster für eine saubere Infrastruktur_](http://www.codetalks.de/session_post/entwurfsmuster-fuer-eine-saubere-infrastruktur)
-- BigData Meetup Hamburg 2013: [_Visualize Open Source Communities_](http://christian-trabold.de/workshops-2013_big_data_HH/)
+- BigData Meetup Hamburg 2013: [_Visualize Open Source Communities_](http://christian-trabold.de/workshop-2013_big_data_HH/)
 - XPDays Vienna 2013: [_Implementing Continuous Delivery Workshop_](http://xp2013.org/program/workshops-and-tutorials/implementing-continuous-delivery/)
 
 # 2012
