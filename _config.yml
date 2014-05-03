@@ -8,3 +8,7 @@ pygments: true
 markdown: kramdown
 
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
+
+gems:
+- jekyll-sitemap
+- jemoji
