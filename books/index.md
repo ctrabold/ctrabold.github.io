@@ -3,16 +3,19 @@ layout: default
 title: Books
 ---
 
-This site contains a list of books I read (german / english):
+This site contains a collection of books I've read and where I made some side notes.
 
-# Books I've wrote
+I found it helpful to write a short summary of the books to remember their contents.
 
-- [TYPO3 Kochbuch](http://www.oreilly.de/catalog/typo3ckbk2ger/) published by O'Reilly
+Here I'd like to share things I've discovered, learned and enjoyed in them.
 
 
-# Books I've read / going to read
+## My [PragProg](http://pragprog.com/) library
 
-These are some books from my [PragProg](http://pragprog.com/) library:
+When it comes to IT books I really like [PragProg](http://pragprog.com/).
+
+The fact that they provide high class ebooks makes it a great convenient source of knowledge while traveling.
+
 
 ## 101 Design Ingredients to Solve Big Tech Problems
 
