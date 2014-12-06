@@ -10,6 +10,10 @@ This site contains entries related to what I am proud to do as a profession.
 
 <img src="http://www.gravatar.com/avatar/6d4ce863d23886ec67558ffe4309fe76.png" class="right" />
 
+I am an INFJ. I am an Achiever, Activator, Futuristic, Ideation, Input.
+http://www.personalitypage.com/INFJ.html
+http://typelogic.com/infj.html
+
 At the moment I am travelling in South East Asia helping to spread the word over _Continuous Delivery_.
 
 Before that I worked for several companies as a Consultant, e.g. for [ThoughtWorks](http://thoughtworks.com/), helping customers implement Continuous Delivery.
