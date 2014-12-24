@@ -9,7 +9,7 @@ tags: [ travel, work, asia, cambodia ]
 
 ## ... everything is allright and xmas is ON! :)
 
-<a href="https://flic.kr/p/qvhqYR" target="_blank"><img src="https://farm9.staticflickr.com/8658/16083946641_3f6d131e33_s.jpg" width="640"></a>
+<a href="https://flic.kr/p/qvhqYR" target="_blank"><img src="https://farm9.staticflickr.com/8658/16083946641_3f6d131e33_z.jpg" width="640"></a>
 
 If you wonder why I'm so quiet: It's because there is SO MUCH happening!
 
