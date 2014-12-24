@@ -1,14 +1,15 @@
 ---
 layout: post
 title: Meanwhile in Cambodia...
-date: 2014-12-01
+date: 2014-12-24
 category: work
+comments: true
 tags: [ travel, work, asia, cambodia ]
 ---
 
 ## Meanwhile in Cambodia...
 
-<iframe src="https://www.flickr.com/photos/christian-trabold/16083946641/player/" width="75" height="75" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<iframe src="https://www.flickr.com/photos/christian-trabold/16083946641/player/" width="450" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 ... everything is allright and xmas is ON! :)
 
