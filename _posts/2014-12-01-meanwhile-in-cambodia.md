@@ -7,11 +7,9 @@ comments: true
 tags: [ travel, work, asia, cambodia ]
 ---
 
-## Meanwhile in Cambodia...
+## ... everything is allright and xmas is ON! :)
 
 <iframe src="https://www.flickr.com/photos/christian-trabold/16083946641/player/" width="450" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
-
-... everything is allright and xmas is ON! :)
 
 If you wonder why I'm so quiet: It's because there is SO MUCH happening!
 
