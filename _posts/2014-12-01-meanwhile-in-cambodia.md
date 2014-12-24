@@ -15,7 +15,7 @@ If you wonder why I'm so quiet: It's because there is SO MUCH happening!
 
 The last months have been intense, full of wonders and fantastic!
 
-I am planning more post to describe some of the amazing things that happened this year.
+I am planning more posts to describe some of the amazing things that happened this year.
 
 In the meantime you can [explore Phnom Penh online](https://www.google.com/maps/views/streetview/cambodia-highlights?gl=us) :)
 
