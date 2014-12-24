@@ -7,7 +7,7 @@ comments: true
 tags: [ travel, work, asia, cambodia ]
 ---
 
-## ... everything is allright and xmas is ON! :)
+## ... everything is all right and xmas is ON! :)
 
 <a href="https://flic.kr/p/qvhqYR" target="_blank"><img src="https://farm9.staticflickr.com/8658/16083946641_3f6d131e33_z.jpg" width="640"></a>
 
