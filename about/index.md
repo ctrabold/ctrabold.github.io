@@ -10,11 +10,9 @@ This site contains entries related to what I am proud to do as a profession.
 
 <img src="http://www.gravatar.com/avatar/6d4ce863d23886ec67558ffe4309fe76.png" class="right" />
 
-I am an INFJ. I am an Achiever, Activator, Futuristic, Ideation, Input.
-http://www.personalitypage.com/INFJ.html
-http://typelogic.com/infj.html
+I am an [INFJ](http://www.personalitypage.com/INFJ.html). I am an Achiever, Activator, Futuristic, Ideation, Input.
 
-At the moment I am travelling in South East Asia helping to spread the word over _Continuous Delivery_.
+At the moment I am travelling in South East Asia helping to spread the word over _Continuous Delivery_ and _DevOps_.
 
 Before that I worked for several companies as a Consultant, e.g. for [ThoughtWorks](http://thoughtworks.com/), helping customers implement Continuous Delivery.
 
@@ -45,7 +43,7 @@ All the way from Continuous Integration, through scalable Build Pipelines to Con
 ## My punchline
 
 <blockquote>
-When I hear 'impossible' it get's interesting.
+When I hear 'impossible' it gets interesting.
 </blockquote>
 
 
