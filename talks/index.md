@@ -7,6 +7,13 @@ This site contains a list of my talks and workshops I gave at conferences and me
 
 Some of them are on [slideshare](http://de.slideshare.net/ctrabold).
 
+# 2015
+
+- T3CON ASIA 2015 Phnom Penh, Cambodia: [How to write documentation AND have a good time](http://christian-trabold.de/workshop-2015-t3con-cambodia/agile-documentation.html) & [How to reduce on-boarding time and make developers more productive](http://christian-trabold.de/workshop-2015-t3con-cambodia/onboarding.html)
+- DevOps Meetup Phnom Penh, Cambodia: [DevOps, Configuration Management & Continuous Delivery](http://christian-trabold.de/workshop-2015-t3con-cambodia/devops-pp.html)
+- DevOps Meetup Singapore: [Get Ready for DevOpsDays!](http://www.devopsdays.org/events/2015-singapore/presentations/devops-meetup.html)
+- [Agile Thailand](http://agilethailand.org/), Bangkok: Infrastructure Automation, Agile Documentation, Dev:heart:Ops - a brief introduction to DevOps ([details](https://twitter.com/ctrabold/statuses/596880141667569664))
+
 # 2014
 
 - DevOps Meetup Singapore: [Implementing Continuous Delivery Talk](http://www.meetup.com/devops-singapore/events/168709362/)
