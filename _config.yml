@@ -4,8 +4,8 @@ description: international travel work food fun blogging
 
 permalink: /:year/:month/:day/:title/
 paginate: 10
-pygments: true
 markdown: kramdown
+highlighter: rouge
 
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
 
