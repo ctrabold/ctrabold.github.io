@@ -7,6 +7,13 @@ This site contains a list of my talks and workshops I gave at conferences and me
 
 Some of them are on [slideshare](http://de.slideshare.net/ctrabold).
 
+# 2016
+
+- Agile Thailand Bangkok
+- DevOps Meetup Bangkok
+- Elixir Meetup Singapore
+
+
 # 2015
 
 - T3CON ASIA 2015 Phnom Penh, Cambodia: [How to write documentation AND have a good time](http://christian-trabold.de/workshop-2015-t3con-cambodia/agile-documentation.html) & [How to reduce on-boarding time and make developers more productive](http://christian-trabold.de/workshop-2015-t3con-cambodia/onboarding.html)
