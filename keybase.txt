@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/ctrabold
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://christian-trabold.de
+  * I am ctrabold (https://keybase.io/ctrabold) on keybase.
+  * I have a public key ASAQxxA2GowCT57EEvJJ-tehpRAZwdv9i9OvDYvK4I1tlwo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120a1a10ea03d3c9659ebd16e0c3e6c9251790366466db5f23f55f117278a1c80230a",
+            "host": "keybase.io",
+            "kid": "012010c710361a8c024f9ec412f249fad7a1a51019c1dbfd8bd3af0d8bcae08d6d970a",
+            "uid": "3a16d891e12c071ec5678fb8317ef119",
+            "username": "ctrabold"
+        },
+        "service": {
+            "hostname": "christian-trabold.de",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.22"
+    },
+    "ctime": 1495036843,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1495036819,
+        "hash": "1066e670b9f7916c05d85b645a7d8e0dd8161112c0b957d9ee447639e7896fb4db60fbf14ff8ebe8ba678cfc6ce1b4dfd5ac37d901cc60b6a3d87a5adf2a0776",
+        "seqno": 1090827
+    },
+    "prev": "0fab8f3171d8488c7e327975d5aff5f42115d1e22264bbd56ff5a035d349f639",
+    "seqno": 12,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgEMcQNhqMAk+exBLySfrXoaUQGcHb/YvTrw2LyuCNbZcKp3BheWxvYWTFAv17ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwYTFhMTBlYTAzZDNjOTY1OWViZDE2ZTBjM2U2YzkyNTE3OTAzNjY0NjZkYjVmMjNmNTVmMTE3Mjc4YTFjODAyMzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMTBjNzEwMzYxYThjMDI0ZjllYzQxMmYyNDlmYWQ3YTFhNTEwMTljMWRiZmQ4YmQzYWYwZDhiY2FlMDhkNmQ5NzBhIiwidWlkIjoiM2ExNmQ4OTFlMTJjMDcxZWM1Njc4ZmI4MzE3ZWYxMTkiLCJ1c2VybmFtZSI6ImN0cmFib2xkIn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJjaHJpc3RpYW4tdHJhYm9sZC5kZSIsInByb3RvY29sIjoiaHR0cDoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMjIifSwiY3RpbWUiOjE0OTUwMzY4NDMsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ5NTAzNjgxOSwiaGFzaCI6IjEwNjZlNjcwYjlmNzkxNmMwNWQ4NWI2NDVhN2Q4ZTBkZDgxNjExMTJjMGI5NTdkOWVlNDQ3NjM5ZTc4OTZmYjRkYjYwZmJmMTRmZjhlYmU4YmE2NzhjZmM2Y2UxYjRkZmQ1YWMzN2Q5MDFjYzYwYjZhM2Q4N2E1YWRmMmEwNzc2Iiwic2Vxbm8iOjEwOTA4Mjd9LCJwcmV2IjoiMGZhYjhmMzE3MWQ4NDg4YzdlMzI3OTc1ZDVhZmY1ZjQyMTE1ZDFlMjIyNjRiYmQ1NmZmNWEwMzVkMzQ5ZjYzOSIsInNlcW5vIjoxMiwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEB0CsQl/9vPRWx5m5O8GKS4OBadn+sLhr0D/S+yX7foCQ7FDqXEk+dF32f7PiRaLiPMJJodTsVwD4prkJl816ABqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgLNIYj2yChXUBT+VbauSTBNIdT2Le57R/oeywQqcK+7ajdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ctrabold
+
+==================================================================
