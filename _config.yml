@@ -1,5 +1,4 @@
-name: Christian Trabold
-url: http://christian-trabold.de
+url: https://christian-trabold.de
 description: international travel work food fun blogging
 
 permalink: /:year/:month/:day/:title/
@@ -9,6 +8,6 @@ highlighter: rouge
 
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
 
-gems:
-- jekyll-sitemap
-- jemoji
+plugins:
+  - jekyll-sitemap
+  - jemoji
