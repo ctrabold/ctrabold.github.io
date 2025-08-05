@@ -17,12 +17,11 @@ In my eyes we can improve quite a lot of areas in quality and make TYPO3 shine i
 If testing is hard, the software design is to complicated.
 Well, everybody knows that TYPO3 is a grown system.
 
-When do you start taking care of your users and start verifiing that releases are stable?
+When do you start taking care of your users and start verifying that releases are stable?
 Shorter RC cycles for example. Confidence during development.
-Confiedence when patching security holes. CI with Zaproxy with ZEP scripts. regressions.
+Confidence when patching security holes. CI with Zaproxy with ZEP scripts. regressions.
 
 I recognized I can not do it alone. No financial profit nor fun.
-
 
 ## My Vision for TYPO3
 

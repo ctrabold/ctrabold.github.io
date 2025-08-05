@@ -19,12 +19,10 @@ It helped my a lot taking back control when I got -confused- overwhelmed by cook
 When I first heard of berkshelf [via this blog post](http://devopsanywhere.blogspot.it/2012/07/stash-those-logs-set-up-logstash.html) I got slightly [confused](https://twitter.com/ctrabold/statuses/220093903653699584): *Is someone re-inventing the wheel here?*
 It turned out that I should have read [the offical announcement for berkshelf](http://lists.opscode.com/sympa/arc/chef/2012-06/msg00294.html) before [posting my Tweet](https://twitter.com/ctrabold/statuses/220093903653699584) :) Hope this post helps you as well.
 
-
 ## What is the difference?
 
 Both berkshelf and librarian-chef download cookbooks from various locations. If that sounds totally new to you I highly encourage you to adopt either one of thoses tools to your workflow.
 The main difference is where and how the cookbook files are stored in the current repository / project:
-
 
 ### librarian-chef
 
@@ -34,14 +32,12 @@ It also helps you keeping the cookbooks folder in shape by providing commands to
 
 I did not find a way to change the default "cookbooks" folder which can be a bit painful if you want a different folder strucuture.
 
-
 ### berkshelf
 
 [berkshelf](https://github.com/RiotGames/berkshelf) (by default) loads all cookbooks from the Berksfile into one centralized repository in `~/.berkshelf` (customize via `BERKSHELF_PATH`) and NOT into the current directory.
 
 After downloading all the cookbooks and their dependencies you can *link* those into *whatever* folder you like with `berks install --shims your_desired_path`. Default is `cookbooks`.
 Berkshelf creates *hard links* to cookbooks in the repository. You have to take care of outdated cookbooks etc.
-
 
 ## Final thoughts
 

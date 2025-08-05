@@ -18,14 +18,13 @@ This year over 71 international and 15 cambodian speakers shared their knowledge
 
 All three days were seriously packed, hot and delightful. Here's how I remember them:
 
-
 ## Feb 27: FOSSASIA Speakers Pre-Meetup
 
 <a href="https://www.flickr.com/photos/christian-trabold/14055638466/" title="FOSSASIA Speakers Pre-Meetup"><img src="https://farm8.staticflickr.com/7351/14055638466_55a9b8b635.jpg" width="500" height="374" alt="FOSSASIA Speakers Pre-Meetup"></a>
 
 It all started with the speakers gathering in the Angkor International Hotel.
 
-Seing all the speakers from all over the world in one place mingle together was a special moment for me.
+Seeing all the speakers from all over the world in one place mingle together was a special moment for me.
 
 A lot of shaking hands and cheering. FOSS craziness international. Awesome!
 
@@ -33,14 +32,13 @@ When the event ends some of us take the chance to have _another last drink(tm)_ 
 
 The result: A short night with awesome talks and great fun.
 
-
-## Feb 28: 1st Day: Grand Opening and a Full house!
+## Feb 28: 1st Day: Grand Opening and a Full house
 
 <a href="https://www.flickr.com/photos/christian-trabold/14075605832/" title="FOSSASIA Norton University"><img src="https://farm3.staticflickr.com/2901/14075605832_5c1c08ecfb.jpg" width="500" height="374" alt="FOSSASIA Norton University"></a>
 
 On Friday 28 February FOSSASIA officially started. The mainhall was very growded and I am impressed how many people actually attend.
 
-In the afternoon I give my talk about 'Implementing Continuous Delivery' in front of an awesome growd.
+In the afternoon I give my talk about 'Implementing Continuous Delivery' in front of an awesome crowd.
 
 The room is packed and I am amazed that so many people are interested.
 
@@ -51,7 +49,6 @@ My concerns are totally unnecessary. There's no need to worry at all. I have the
 We also manage to -improvise- play [a little CD game](https://twitter.com/ctrabold/statuses/439324411208814592) in order to get a sense for a _Delivery Pipeline_ and _Process Automation_.
 
 All in all it's great fun and I remind my self - once again - to just relax and everything will be fine.
-
 
 ### _We're crusin'_ - The Speaker's Dinner
 
@@ -65,8 +62,6 @@ While enjoying the scenery I drift away in thoughts about the impressions I got 
 
 The software scene in Asia is bigger and much more 'alive' than I thought.
 
-
-
 ## Mar 1: 2nd Day: More Talks and Social Event
 
 <a href="https://www.flickr.com/photos/christian-trabold/13892231849/" title="FOSSASIA Social Event"><img src="https://farm8.staticflickr.com/7453/13892231849_fc3ec29bac.jpg" width="500" height="374" alt="FOSSASIA Social Event"></a>
@@ -76,7 +71,6 @@ Being slightly excausted by the travels and preparations of the last weeks I ove
 As a reminder: It's very easy to get dehydrated - especially when wearing jeans all day long.
 
 I re-join FOSSAsia for the Social Event in the evening, catch a few good talks and (soft) drinks and then go straight into bed in order to renew some energy for tomorrows hack day.
-
 
 ## Mar 2: 3rd Day: FOSSASIA Hack day
 
@@ -117,7 +111,6 @@ Thanks to Mozilla for letting me play with a FirefoxOS phone! It feels very very
 
 Looking forward to see how FirefoxOS gets adopted in the mobile market.
 
-
 ## All in All
 
 <a href="https://www.flickr.com/photos/birajkarmakar/12890520684/" title="IMG_1803 von birajkarmakar bei Flickr"><img src="https://farm3.staticflickr.com/2853/12890520684_82487e5f70.jpg" width="500" height="333" alt="IMG_1803"></a>
@@ -133,20 +126,18 @@ Some special moments I catched on twitter during FOSSASIA:
 * [Butterfly flys through the hall while the Ambassador of Sweden talks about the „free internet project“. Emotional moments at #FOSSASIA](https://twitter.com/ctrabold/statuses/439233671132749824)
 * [Feeling the global power of open source software & collaboration at #FOSSASIA.](https://twitter.com/ctrabold/statuses/439337473101942784)
 
-
-## Thanks!
+## Thanks
 
 Big thanks to [Hong Phuc](https://twitter.com/hpdang), [Mario Behling](https://twitter.com/mariobehling) and all [helping hands](https://twitter.com/fossasia/status/438597775261835264) that made the event so pleasant!
 
 It was a great experience and I am looking forward for the next FOSSASIA events!
 
-
 ## Follow up
 
 Follow FOSSAsia on
 
-- Google+: [https://plus.google.com/108920596016838318216](https://plus.google.com/108920596016838318216)
-- Twitter: [https://twitter.com/fossasia](https://twitter.com/fossasia)
-- Facebook: [https://www.facebook.com/fossasia](https://www.facebook.com/fossasia)
+* Google+: [https://plus.google.com/108920596016838318216](https://plus.google.com/108920596016838318216)
+* Twitter: [https://twitter.com/fossasia](https://twitter.com/fossasia)
+* Facebook: [https://www.facebook.com/fossasia](https://www.facebook.com/fossasia)
 
 More pictures on Flickr: [https://www.flickr.com/photos/tags/fossasia2014/](https://www.flickr.com/photos/tags/fossasia2014/)

@@ -16,7 +16,6 @@ You will deploy the website through several stages:
 
     dev -> ci -> qa -> prod
 
-
 ## Requirements
 
 To start the workshop right away we ask you to bring a laptop and prepare it as follows:
@@ -47,7 +46,6 @@ To start the workshop right away we ask you to bring a laptop and prepare it as 
     └── ubuntu-12.04.2-amd64.box
 </pre>
 
-
 ## How to use the example project
 
 * Insert USB Stick
@@ -59,21 +57,26 @@ To start the workshop right away we ask you to bring a laptop and prepare it as 
   Now the virtual machine starts up and consumes the local ports. It fetches the `.box` file from `./vendor` to create the VM
 * Open [http://localhost:8153/](http://localhost:8153/) in your browser to see the CI-Server working
 * Open [http://localhost:8181/](http://localhost:8181/) to see the umbrella page for our web project we will working on
+
 <pre>
 http://localhost:8181/workshop-dev  - Current status in `app`
 http://localhost:8181/workshop-ci   - Stage after build
 http://localhost:8181/workshop-qa   - Stage after tests
 http://localhost:8181/workshop-prod - Production
 </pre>
+
 * SSH into the machine with `vagrant ssh`.<br>
   You should be able to run every command that is needed for the workshop as user `vagrant`.<br>
   You can use `sudo` without a password.
 * In case you need the username and password:
+
 <pre>
 Username: vagrant
 Password: vagrant
 </pre>
+
 * Go to the folder `/vagrant/app`, make changes and push them
+
 <pre>
 cd /vagrant/app
 
@@ -81,11 +84,11 @@ git add .
 git commit -m "Update content"
 git push origin master
 </pre>
+
 * See the CI-Server in action while fetching the changes and running the tests: [http://localhost:8153/view/CD-Pipeline/](http://localhost:8153/view/CD-Pipeline/)
 * Improve the application and push the updates, when you are satisfied with your results.<br>
   You can edit the code directly on the host in your favourite editor / IDE.
 * Approve the changes by starting the deployment to the next stage
-
 
 ## FAQ
 

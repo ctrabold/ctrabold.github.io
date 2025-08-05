@@ -10,7 +10,7 @@ tags:
 
 I switched from `bash` to `zsh` lately. After [announcing it on Twitter](https://twitter.com/ctrabold/status/196899229455753216) I got lots of reactions, mostly questions, how I did get started.
 
-## So here's how I got started:
+## So here's how I got started
 
 1. I *decided* to change my shell. Why? Actually I was like *why not?* Seeing a lovely bunch of hackers at the [Vagrant Usergroup Berlin](https://twitter.com/berlinvagrant) getting excited with [`tig`](https://git.wiki.kernel.org/index.php/Tig) (a Git browser on the shell) can have quite an influence - so I though: *there's got to be more than my standard shell!*
 1. I did `brew install zsh` to get the latest version

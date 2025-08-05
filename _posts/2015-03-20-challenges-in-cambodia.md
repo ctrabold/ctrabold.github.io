@@ -33,9 +33,7 @@ And besides all the technical challenges I was looking forward to meet old and n
 
 Below are some of the key moments I experienced.
 
-
-
-## Feb 2014 - Bye bye Hamburg!
+## Feb 2014 - Bye bye Hamburg
 
 I leave beautiful Hamburg after one and a half years. Wonderful years.
 
@@ -43,27 +41,24 @@ You may know that I prefer to _travel light_. Thus I get rid of all my inventory
 
 During the weekends people come and go to pick up my belongings. I give away most of my stuff for free rather than throwing it away.
 
-Then I say '_Tschuess!_' to my friends, to an awesome team, to my colleagues I had the pleassure to work with, to my friendly neightbors and a very beautiful City.
+Then I say '_Tschuess!_' to my friends, to an awesome team, to my colleagues I had the pleasure to work with, to my friendly neighbors and a very beautiful City.
 
 Thanks for the great time!
 
-	Don't cry because it's over.
-	Smile because it happend. -- Dr. Seuss
-
+ Don't cry because it's over.
+ Smile because it happened. -- Dr. Seuss
 
 One day before my flight to Bangkok I give a Workshop at OOP in Munich with my amazing colleague Michael.
 
 The workshop is fully booked. We have great fun. Everything works perfect. THANK YOU Michael for this great experience!
 
-
-
 ## Arriving in Bangkok - Hugs, Friends and DevOps
 
-During the flight: Nice chat with my neightbour about DevOps and Continuous Delivery. Coincidence?
+During the flight: Nice chat with my neighbor about DevOps and Continuous Delivery. Coincidence?
 
 I feel supported and connected - worldwide.
 
-Arival in Bangkok feels like coming home.
+Arrival in Bangkok feels like coming home.
 
 I prepare my talk for [FOSSASIA](http://fossasia.org/) while I sweat and enjoy every drop.
 
@@ -73,17 +68,13 @@ During the _boring_ ride I freeze and shiver for first time ever in Asia!
 
 Luckily I meet old friends on the way and warm up while having good conversations. Thanks!
 
-
-
-## Cheers Cambodia!
+## Cheers Cambodia
 
 Shortly after the Thai border the clouds break up and I feel warm and welcome.
 
 I arrive in Phnom Penh and stumble directly into the first BBQ. There I meet old friends. Cheer here and there. And finally arrive.
 
 Highlights: Eating superb Phơ with my beloved friends for lunch.
-
-
 
 ## FOSSASIA Conference Delivery
 
@@ -93,13 +84,11 @@ It feels great to spread the word and the questions from the audience are great!
 
 The next talk about _Continuous Delivery_ is already in the planning at the _[DevOps Meetup Singapore](http://www.meetup.com/DevOps-Singapore/)_!
 
-
-
 ## DevOps Hunting Mountain Cats in Singapore
 
 Feels great to be back in this amazing city! Goosebumps.
 
-Visiting Singapore always reminds me of my bicicly trip where I arrived in Singapore 2010 from Germany.
+Visiting Singapore always reminds me of my bicycle trip where I arrived in Singapore 2010 coming from Germany.
 
 Meeting my colleagues from the ThoughtWorks Singapore Office is also very nice.
 
@@ -114,8 +103,6 @@ title="Mountain Cat Durian von christian_trabold bei Flickr"><img
 src="https://c2.staticflickr.com/6/5105/14079409274_95f32fee03_n.jpg"
 width="500" alt="Mountain Cat Durian"></a>
 
-
-
 ## Balla Balla Bali
 
 After all the traveling and conferences I book a flight to Bali to meet friends there.
@@ -126,9 +113,7 @@ Ironically my digital equipment completely fails to work after I arrive because 
 
 I find a cute little hut on the Gilis island and enjoy the nice view.
 
-
-
-## Hold your breath!
+## Hold your breath
 
 <a href="https://www.flickr.com/photos/christian-trabold/14099462743/"
 title="Freediving 20m von christian_trabold bei Flickr"><img
@@ -145,13 +130,11 @@ First some sessions in the pool, than in the ocean on a line. The maximum depth 
 
 It's an amazing experience to see the deep blue and what I am capable of while doing basically nothing than relaxing.
 
-The last exercise of the course is a free dive (without a rope) in an average depth of 16 meters. 
+The last exercise of the course is a free dive (without a rope) in an average depth of 16 meters.
 
-I pair my dive with a big Turtle and we are flying together peacefully over colorful corall reefs. Then she gracefully turns left into the big blue while I begin my decent.
+I pair my dive with a big Turtle and we are flying together peacefully over colorful coral reefs. Then she gracefully turns left into the big blue while I begin my decent.
 
 Amazing!
-
-
 
 ## Back in Cambodia
 
@@ -175,8 +158,6 @@ width="500" alt="Birthday Cake"></a>
 
 Thanks Mary, Christoph and my guests for making this day unforgettable!
 
-
-
 ## Steady DevOps Movement - We build green
 
 <a href="https://www.flickr.com/photos/christian-trabold/16090621861/"
@@ -188,7 +169,7 @@ At work we more and more dig into the big picture.
 
 Conflicts are quickly solved although communication remains a challenging issue. It helps a ton to translate the content into Khmer.
 
-When speaking english, try to imagine that every word is a) hardly understood, b) translated literaly. This is particulary true when speaking very elaborated 'correct' english.
+When speaking english, try to imagine that every word is a) hardly understood, b) translated literally. This is particularly true when speaking very elaborated 'correct' english.
 
 Example: Take the common phrase from the Continuous Delivery book:
 
@@ -198,42 +179,38 @@ What does this mean? Run against the wall? Deliver pain?
 
 It takes some attempts to find the right words.
 
-
-
-# Startup Weekend & DevOps Meetup Phnom Penh
+## Startup Weekend & DevOps Meetup Phnom Penh
 
 Both events are a great success for me personally and very inspiring:
 
-- http://www.up.co/communities/cambodia/phnom-penh/startup-weekend/about
-- https://www.facebook.com/groups/1508055822791148/
+- <http://www.up.co/communities/cambodia/phnom-penh/startup-weekend/about>
+- <https://www.facebook.com/groups/1508055822791148/>
 
 Highly recommend to attend these kind of events.
 
+### What worked well
 
-
-## What worked well
-
-### Living with less sleep
+#### Living with less sleep
 
 Phnom Penh is a murloch of noise and dust. Constructions and other noises everywhere. On the other hand - and that might sound paradox - it is great to be here.
 
 There _is_ something in the air. If it is only the fact that one can resist the stress of the city.
 
-### Staying relaxed
+#### Staying relaxed
 
 Appear to stay totally relaxed and in control during traffic peak times is possible.
 
-### Believe in archiving the impossible
+#### Believe in archiving the impossible
 
 Things that seem impossible are now no-events. I love that.
 
-### Stop talking, start doing!
+#### Stop talking, start doing
 
-### Replace 'but' with 'and'
+#### Replace 'but' with 'and'
 
 The overall usage of the word 'but' was quite annoying and made discussions less productive in my opinion. I understand that the speaker uses the word with no bad intention and I could easily replace it with an 'and' whenever I hear it. This simple trick made me peace of mind.
 
-### Continuous Delivery affects the whole company
+#### Continuous Delivery affects the whole company
 
 Most of the time when I talked with Sales or Upper Management about the upcomming changes I felt as they are talking about a seperate group of people:
 
@@ -244,13 +221,12 @@ I had to remind them that the cultural change we are talking about also includes
 
 This was actually the biggest nut to crack.
 
-
-#### DevOps Manta
+### DevOps Manta
 
 Always remember:
 
-	80-90% is cultural challenges
-	20-10% is technical challenge. All solved problems.
+ 80-90% is cultural challenges
+ 20-10% is technical challenge. All solved problems.
 
 We have wonderful tools for managing / provisioning our infrastructure. EVERYBODY can use them.
 
@@ -264,8 +240,6 @@ It's the mindsets. It's the thinking in therms of 'their' and 'mine' instead of 
 
 To know how the other(s) experience their world around them and their
 inner world helped a lot e.g. through personality tests.
-
-
 
 ## Review
 
@@ -283,7 +257,7 @@ I still love the fact how 'being away from home' sharpens my senses and my appre
 
 I still love timezones because they make me feel humble.
 
-Laughting solves everything. As a meassurement: The fact that we can now laugh about [DevOpsReaction GIFS](http://devopsreactions.tumblr.com/) together is one of the biggest archievements in my opinion. I highly value that! Once you start laughting about problems it gets easier. :)
+Laughing solves everything. As a measurement: The fact that we can now laugh about [DevOpsReaction GIFS](http://devopsreactions.tumblr.com/) together is one of the biggest achievements in my opinion. I highly value that! Once you start laughing about problems it gets easier. :)
 
 DevOps and Continuous Delivery are both Team-Sports. It often starts with one person that has the guts to change things or is fed up by doing things over and over. Start solo, aim to archive changes together with the team and you most probably win.
 
