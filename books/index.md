@@ -9,143 +9,141 @@ I found it helpful to write a short summary of the books to remember their conte
 
 Here I'd like to share things I've discovered, learned and enjoyed in them.
 
-
 ## My [PragProg](http://pragprog.com/) library
 
 When it comes to IT books I really like [PragProg](http://pragprog.com/).
 
 The fact that they provide high class ebooks makes it a great convenient source of knowledge while traveling.
 
+### 101 Design Ingredients to Solve Big Tech Problems
 
-## 101 Design Ingredients to Solve Big Tech Problems
+nur angelesen
 
-nicht gelesen
-
-## Build Awesome Command-Line Applications in Ruby 2
+### Build Awesome Command-Line Applications in Ruby 2
 
 inspirierend, gute Einführung in die Test-Setups
 
-## Continuous Testing
+### Continuous Testing
 
 Basics. Löst in mir das verlangen aus dass ich das THema vorantreiben muss. MUSS
 
-## Cucumber Recipes
+### Cucumber Recipes
 
 Sehr aufschlussreiches Buch vor allem das Konzept der PageObjects ist mir sehr neu und einleuchtend
 
-## Deploying Rails
+### Deploying Rails
 
 gibt mir gute Ansätze für ter.io Deployments. Schläft jedoch dann ein
 
-## Everyday Scripting with Ruby
+### Everyday Scripting with Ruby
 
 cool. Verringert die Hürde, die ich momentan noich mit Ruby habe
 
-## Exceptional Ruby:
+### Exceptional Ruby
 
-## HTML5 and CSS3, Second Edition:
+### HTML5 and CSS3, Second Edition
 
-## Lean from the Trenches
+### Lean from the Trenches
 
 ich hab's mit den PM Büchern weniger. Mir fehlt da der Anwendungsfall, und ich habe wenig Spaß daran, anderen mit meinem Buchwissen dann vorzuhalten, wie sie besser PM betreiben können.
 
-## New Programmer's Survival Manual
+### New Programmer's Survival Manual
 
 Grundlagen. Leren für mich persönlich wenig neues, es ist gut bestätigt zu werden.
 
-## Practical Vim
+### Practical Vim
 
 Augenöffner! Gutes Buch mit tollen Tipps. Ich arbeit nun wieder geerne mit Vim.
 
-## Practices of an Agile Developer
+### Practices of an Agile Developer
 
 nuja
 
-## Pragmatic Project Automation
+### Pragmatic Project Automation
 
 kA
 
-## Programming Clojure
+### Programming Clojure
 
 Merke wie mir die Konzepte immer klarer werden. Ich initiiere sogar ein Clojure Hackathon beim Kunden, wo wir dann gemeinsam Code Dojos durcharbeiten. Ein riesen Spaß
 
-## Programming Groovy
+### Programming Groovy
 
 Mein Referenzwerk beim Hacken von Jenkins-Skripten. Sehr hilfreich.
 
-## Programming Ruby 1.9 & 2.0
+### Programming Ruby 1.9 & 2.0
 
 Schneller Überblick und Basics auffrischen. Gute Lektüre, wobei ich die Referenz gerne online habe, z.B. fürs Copy&Paste
 
-## R Cookbook
+### R Cookbook
 
 Augen öffnen für eine sehr andere Programmiersprache und neue Möglichkeiten, Statistik zu erleben
 
-## Redis Cookbook
+### Redis Cookbook
 
 I love Redis. Sehr angenehme konzentrierte Einführung als Ergänzung zur Online-Dokumentation
 
-## Release It!
+### Release It
 
 Super. Macht Eindruck. Gut zu sehen, wie andere mit den Problemen umgehen. Und gut geschrieben. Empfehlung!
 
-## Scripted GUI Testing with Ruby
+### Scripted GUI Testing with Ruby
 
 Toller Einblick, was alles möglich ist. Viele Dinge, die ich als untestbar gehalten habe sind testbar.
 
-## SQL Antipatterns
+### SQL Antipatterns
 
 schwer lesbar. Ich habe durch die Abstraktionsebene in der TYPO3-API zu wenig Ansatzpunkte, um es im täglichen Leben wirklich zu beenutzen. Jeoch nehme ich einige Ideen und neue Erkenntnisse mit.
 
-## The Developer's Code
+### The Developer's Code
 
 TBR
 
-## The Dream Team Nightmare
+### The Dream Team Nightmare
 
 TBR
 
-## The RSpec Book
+### The RSpec Book
 
 Pflichtbuch für Ruby Entwickler.
 
-## The SPDY Book
+### The SPDY Book
 
 Ein technisches Buch über ein neues HTTP-Protokoll, das mir viele Einblicke und Hintergründe von HTTP und den Möglichkeiten gibt.
 
-## The ThoughtWorks Anthology
+### The ThoughtWorks Anthology
 
 Nette Möglichkeit, einen Einblick über meinen zukünftigen Arbeitgeber zu bekommen.
 
-## tmux
+### tmux
+
 Lifechanging. Ich nutze tmux und kann es endlich auch verstehen, anpassen etc.
 
-## Using jRuby
+### Using jRuby
+
 Macht mut, ter.io auf jRuby zu migrieren. DUrch die ewig langen Startup-Zeiten verabschiede ich davon jedoch wieder.
 
-## Version Control with Git
+### Version Control with Git
+
 Pflichtlektüre. Erklärt gut die Konzepte und Best-Practices
 
-## Web Development Recipes
+### Web Development Recipes
+
 kann wenig damit anfangen
 
-## Web Development with Clojure
+### Web Development with Clojure
+
 hippe neue inspirierende Ideen, wie es auch gehen kann. Irgendwann mal machen :)
 
-## Working with Unix Processes
+### Working with Unix Processes
 
+## Others
 
-
-
-# Others
-
-## Quiet / Still
+### Quiet / Still
 
 Ein anstrengendes Buch, weil ich viel auf mich beziehe und reflektiere.
 
-
-
-## Being Wrong
+### Being Wrong
 
 Eine Empfehlung von einem Teilnehmer auf dem DevOps-Meetup.
 
@@ -156,9 +154,7 @@ Gibt mir die Fähigkeit mit, Eindrücke und Aussagen von anderen in ein anderes 
 
 Sehr beeindruckend sind die Krimminalfälle. Was ist Wahr? Was ist Wirklichkeit?
 
-
-
-## 'Gespräche' mit Richard Bandler
+### 'Gespräche' mit Richard Bandler
 
 Eines der besten, beeindruckendsten und aufschlussreichsten Bücher, die ich bisher lesen durfte.
 
@@ -175,9 +171,7 @@ Ganz groß. Ein beeindruckendes Buch.
 
 Ich überlege lange, wem ich dieses Buch empfehlen soll. Ich empfehle es jedem, der mir wichtig ist.
 
-
-
-## Die Superreichen
+### Die Superreichen
 
 Einblicke in eine neue Welt die mir biher noch fremd und undurchsichtig erschien.
 
@@ -189,36 +183,26 @@ Ich empfinde es als angenehm. Und der Schreibstil ist locker und einfühlsam.
 
 Schönes Leseerlebnis.
 
-
-
-## Confessions of a Public Speaker
+### Confessions of a Public Speaker
 
 Dieses buch hat mich davon überzeugt, raus zu gehen und vor Menschen zu sprechen.
 Es beinhaltet sehr viele Tipps und Erfahrungsberichte, die mein Kopfkino besänftigen.
 
-
-
-## Mindfire
+### Mindfire
 
 Inspirirende Annekdoten, die ich immer mal wieder gerne lese und zum Reflektieren meiner Situation benutze.
 Kurzweilig geschrieben. Lustig, offen, unterhaltsam.
 
-
-
-## The Logstash Book
+### The Logstash Book
 
 Good book to get started. Viele Code-Beispiele. Viele Ideen zum weiter ausbauen und anpassen an eigene Infrastruktur.
 
-
-
-## The Human, The Orchid and The Octopus, Jacques Cousteau
+### The Human, The Orchid and The Octopus, Jacques Cousteau
 
 Ein grandioses, aufwühlendes und so einfühlsames Buch.
 Es behandelt alle Themen, die mein jugendliches Herz umspühlen und weitere, die meine Landkarte erweitern.
 
-
-
-## Asien, mein Leben
+### Asien, mein Leben
 
 Ich lerne Herrn Terayzin kennen. Und ich lerne mehr über Asien.
 Ich kaufe beim Globetrotter in Frankfurt sein Buch.
@@ -231,9 +215,7 @@ Als ob ich mein Leben durch ihn sehe. Oder umgekehrt. Lebe ich so ein ähnliches
 Ein Seelenfreund hat die Erde verlassen und ich bin bestärkt in meinen Gedanken, dass wir alle miteinander verbunden sind.
 Er lebte das Leben, von dem ich träume, ohne zu wissen, dass er lebt, bereits diese Bilder sieht oder gesehen hat.
 
-
-
-## Das Glasperlenspiel (06.08.09)
+### Das Glasperlenspiel (06.08.09)
 
 Ein Experiment. Ich mag das Buch.
 Und das Ende von Josef Knecht trifft mich wirklich, als ich mit dem Rad durch Russland Richtung Volgograd radel.
@@ -243,9 +225,7 @@ Die Ruhe der Universität, der Chinese all das beruhigt mich und es ist ein Genu
 
 Ich schenke es einem anderen Deutschen in einer Jugendherberge.
 
-
-
-## The 4hour Body
+### The 4hour Body
 
 Ich finde den Ansatz verlockend und probiere es aus. Für mich ist es jedoch dann nichts.
 
@@ -254,9 +234,7 @@ Ich mag seine Einstellung, Grenzen auszutesten und an sich selbst zu erfahren.
 
 Ein aufschlussreiches Buch, mit nur indirekter Auswirkung auf mein Leben. Ich bleibe Beobachter und finde es klasse, dass es solche Leute gibt.
 
-
-
-## SecretsOfBeing Happy
+### SecretsOfBeing Happy
 
 Sehr aufschlussreiche Erkenntnisse über mich und meine Ansichten für ein gutes Leben.
 Das Buch hat viele Ǜbungen, die auch unbedingt gemacht werden sollten, wenn das Buch Effekt zeigen soll.
@@ -266,9 +244,7 @@ Die Übungen haben bei mir dazu geführt, dass ich das Buch immer mal wieder weg
 
 Es ist ein Arbeitsbuch.
 
-
-
-## Tepperwein 'Die Kunst des mühelosen Lernens'
+### Tepperwein 'Die Kunst des mühelosen Lernens'
 
 Gute Lektüre im Jahre 1998. Es begründet meine Auffassung, dass Lernen wirklich mehr Spaß machen sollte.
 Ein Wunsch, den ich seit Kindheit habe. Schön, dass ich nun offizielle Quellen von erwachsenen finde, die mich da im Denken unterstützen.
@@ -276,30 +252,22 @@ Ich komme auch zum ersten Mal mit Hyphnose und NLP in Kontakt.
 
 Danke für die tollen Ideen. Ein wichtiger Baustein in meinem Leben.
 
-
-
-## Der Vorleser
+### Der Vorleser
 
 Ich habe das Buch vor vielen vielen Jahren gelesen und es ist mir sehr lebendig in Erinnerung.
 Als der Film dazu herauskam sah ich viele dieser Erinnerungen auf der Leinwand. Ein guter Film. Gut umgesetzt.
 
-
-
-## Effi Briest
+### Effi Briest
 
 Total romantisch. Ich hätte sie gerne getroffen und gerettet.
 Klappt nicht.
 
-
-
-## Goethe Faust I
+### Goethe Faust I
 
 Lustig zu lesen. Theater mit Markus sensationell.
 Ich mag das Werk.
 
-
-
-## Fontanes Gesammelte Werke
+### Fontanes Gesammelte Werke
 
 Habe ich in guter Erinnerung.
 
